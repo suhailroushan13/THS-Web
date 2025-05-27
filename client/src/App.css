@@ -1,0 +1,33 @@
+html,
+body,
+.viewport {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow-x: hidden;
+}
+body * {
+  transition: all 0.4s ease-in-out !important;
+}
+* {
+  font-family: "Inter";
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button {
+  font-family: "Libre Franklin", sans-serif !important;
+}
+p,
+span,
+li,
+strong,
+a {
+  font-family: "Ubuntu", sans-serif;
+}
+.font-mono {
+  font-family: "Lexend Giga", sans-serif !important;
+}
